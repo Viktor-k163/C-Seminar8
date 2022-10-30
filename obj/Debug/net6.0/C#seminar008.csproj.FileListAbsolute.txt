@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\bin\Debug\net6.0\C#seminar008.exe
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\bin\Debug\net6.0\C#seminar008.deps.json
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\bin\Debug\net6.0\C#seminar008.runtimeconfig.json
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\bin\Debug\net6.0\C#seminar008.dll
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\bin\Debug\net6.0\C#seminar008.pdb
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.AssemblyInfo.cs
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.dll
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\refint\C#seminar008.dll
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.pdb
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\C#seminar008.genruntimeconfig.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#Seminars\C#seminar008\obj\Debug\net6.0\ref\C#seminar008.dll
